@@ -1,0 +1,87 @@
+canonical_identifier: bkk:krp/KR1h0023/v1
+canonical_location: https://kanripo.org/bkk/KR1h0023/v1
+canonical_set:
+  identifier: bkk:charset/cjk-v1
+  hash: sha256:7cf5854f9b7b99617990762b56ca5289dd34e1992baf324bb7716157d9a4b2ee
+metadata:
+  title: 蒙齋中庸講義
+  date: '2016-04-12 14:00:00.272758'
+  source:
+    repository: kanripo
+    path: KR1h0023
+  base_edition: WYG
+  edition:
+    short: bkk
+entity_encoding:
+  identifier: bkk:encoding/kanripo-pua-v1
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+assets:
+  parts:
+  - {seq: 0, filename: KR1h0023_000.yaml, hash: 'sha256:ab0e82816d5a8764ae06fcffc766849a3781f1ce8786bf2058172bf6ae804022'}
+  - {seq: 1, filename: KR1h0023_001.yaml, hash: 'sha256:b7c0fb6e88ec714de5408aeb62df3266d1511c41c2cc9ec84ce0e34288e368a0'}
+  - {seq: 2, filename: KR1h0023_002.yaml, hash: 'sha256:40b7a1a9b742d08e8bafa1f7c4ea71954b0412cab40c19ed46a095b78b9a52cc'}
+  - {seq: 3, filename: KR1h0023_003.yaml, hash: 'sha256:ca1e2bdcf87ffb6661b72851a18ebc074cdf4682064725be05815df317024304'}
+  - {seq: 4, filename: KR1h0023_004.yaml, hash: 'sha256:a554cc029d9574b6dbcfc78dff04c8cbf9bc8460598a27e31f8c828ae851ea17'}
+  markers:
+  - {seq: 0, role: markers, filename: assets/KR1h0023_000.markers.yaml, hash: 'sha256:8cdfff20d11f33facee010b4713edeac9b2a5ab880085e7ca98f7c3eb2e38ce0'}
+  - {seq: 1, role: markers, filename: assets/KR1h0023_001.markers.yaml, hash: 'sha256:33af5765105466ee930df2822fe929e38e354588a8dd4b21c628317436f36bbf'}
+  - {seq: 2, role: markers, filename: assets/KR1h0023_002.markers.yaml, hash: 'sha256:9afb39ed3dff6ad8b5146548875e2336424039809443e8c898ccfdfa7a90f437'}
+  - {seq: 3, role: markers, filename: assets/KR1h0023_003.markers.yaml, hash: 'sha256:57bb023d93c39ed4882f77c6523a54ca0a974b31257cc69601c0a558d8b7bf9e'}
+  - {seq: 4, role: markers, filename: assets/KR1h0023_004.markers.yaml, hash: 'sha256:3a0c65b49518438bfbfb28e8443153d0dad20f55a5e52155f3eb9571e4f190c2'}
+table_of_contents:
+- ref:
+    seq: 0
+    marker_id: KR1h0023_WYG_000-1a
+    span:
+    - body
+    - 0
+    - 483
+  label: juan 000
+  type: section
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR1h0023_WYG_001-1a
+    span:
+    - body
+    - 0
+    - 8628
+  label: juan 001
+  type: section
+  level: 1
+- ref:
+    seq: 2
+    marker_id: KR1h0023_WYG_002-1a
+    span:
+    - body
+    - 0
+    - 9723
+  label: juan 002
+  type: section
+  level: 1
+- ref:
+    seq: 3
+    marker_id: KR1h0023_WYG_003-1a
+    span:
+    - body
+    - 0
+    - 9479
+  label: juan 003
+  type: section
+  level: 1
+- ref:
+    seq: 4
+    marker_id: KR1h0023_WYG_004-1a
+    span:
+    - body
+    - 0
+    - 16164
+  label: juan 004
+  type: section
+  level: 1
+hash: sha256:f330fa11e3dd27ae4a14b9f8f60deac142f0513f1badc6770a8744e0de0ece94
+mappings:
+- canonical_identifier: bkk:mapping/variant-fold-v1
+  hash: sha256:366e8ec95655b72d3205b878dc416602f82ff8a6b5dd240168f5ee5a7c65a61e
+editions:
+- short: WYG
